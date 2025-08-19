@@ -1,8 +1,8 @@
 # Python-Ride-Ticket-Fare-Calculator
-Use one of the links to try out the program!
-For non technical reviewers (UI): https://python-ride-ticket-fare-calculator.streamlit.app/
 
-For technical reviewers (Code in Collab):
+Use one of the links to try out the program!
+For non technical reviewers (Live Demo with UI): https://python-ride-ticket-fare-calculator.streamlit.app/
+For technical reviewers (Code demo in Collab):
 https://colab.research.google.com/drive/17q1zTjcd1VNZx4yD0c5FErgwe831Dwth?usp=sharing
 
 I am teaching my nephew to code and this repository is an example of applying conditional statements in Python to solve a problem.
