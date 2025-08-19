@@ -27,4 +27,4 @@ elif photo_answer == "n" or "no":
     print("you have chosen to opt-in for the photo service")
 
 print(f"Your total bill is Ticket(${bill})  + Extra Charge(${photo_charge}) = ${bill}")
-#adding a line to commit and test git account change
+
